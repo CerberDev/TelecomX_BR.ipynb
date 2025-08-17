@@ -86,7 +86,7 @@ Com base nos insights gerados, as seguintes ações são recomendadas para reduz
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/seu-usuario/TelecomX_BR.ipynb.git
+git clone https://github.com/CeberDev/TelecomX_BR.ipynb.git
 cd TelecomX_BR.ipynb
 pip install -r requirements.txt
 ```
